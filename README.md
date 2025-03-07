@@ -27,7 +27,7 @@ Esse comando faz o build das imagens e cria os conteineres docker
 make kill -> para todas os containeres docker e remove a imagem criada \
 make stop -> encerra a execução dos containeres \
 make start -> inicia todos os conteineres \
-make format -> executa o lint e formata o código
+make format -> executa o lint e formata o código \
 make test -> executa os testes unitários
 
 
